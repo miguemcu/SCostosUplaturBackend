@@ -1,0 +1,6 @@
+src/main/resources/application-local.properties
+target/
+.git/
+.gitignore
+.dockerignore
+API_CONTRACT.md
